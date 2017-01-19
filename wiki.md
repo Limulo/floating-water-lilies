@@ -1,47 +1,83 @@
-#Progetto Luci in Acqua#
+# Progetto Luci in Acqua
+ 
+## LUCE
 
-##LED RGB##
+[Qui](https://learn.adafruit.com/lets-put-leds-in-things/soldering?view=all) alcune idee sull'utilizzo di diversi metodi per illuminare da _Adafruit_.
+
+### LED RGB
 
 * [RobotItaly 1](http://www.gioblu.com/tutorials/sensori/59-sensore-prossimita-led)
 * [RobotItaly 2](http://www.robot-italy.com/en/neopixel-jewel-7-x-ws2812-5050-rgb-led-with-integrated-drivers.html)
 * [RobotItaly 3](http://www.robot-italy.com/en/2549-addressable-rgb-60-led-strip-5v-1m-ws2812b.html)
 
-##Comunicazione Wireless##
+### Sensing della luce
+
+* [Robot Italy](http://www.robot-italy.com/it/catalogsearch/result/?q=TCS34725)
+
+### Elettroluminescenza
+
+* [Adafruit](https://learn.adafruit.com/el-wire/soldering-to-el-wire)
+
+## Comunicazione
+
+### IR
+
+* [protocolli, idee e progetti](http://www.epanorama.net/links/irremote.html) (da _Tom Igoe_);
+* [555](http://www.robotroom.com/Infrared555.html), un grande ritorno. Un [semplice circuito](http://www.reconnsworld.com/ir_ultrasonic_basicirdetectemit.html) IR;
+* IR by [Sparkfun](https://learn.sparkfun.com/tutorials/ir-communication);
+* IR by [Adafruit](https://learn.adafruit.com/ir-sensor/overview)
+
+### Wireless
 
 * [Articolo](http://ismanettoneblog.altervista.org/blog/lezione-12-comunicazioni-wireless-low-cost-arduino/?doing_wp_cron=1484755254.4665460586547851562500) su comunicazione WiFi con Arduino 
 * [Articolo](http://pezzato.net/2013/07/arduino-wireless-economico-con-nrf24l01-plus.html) su trasmettitore WiFi con Arduino 
 * [Quadricotteri](http://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters) Ted Talk "_Raffaello D'Andrea: The astounding athletic power of quadcopters_".
 * protocollo [CSMA/CA](https://it.wikipedia.org/wiki/CSMA/CA).
 
-##Prossimità##
+## Hardware
+
+* dimensioni contenute: microcontroller [GEMMA](https://www.adafruit.com/gemma) e relativo progetto [gufo](https://learn.adafruit.com/chirping-plush-owl-toy?embeds=allow) da Adafruit.
+
+### Motori e movimento
+
+* [link](https://learn.adafruit.com/vibro-bugz/materials?view=all) vibration bug by _Adafruit_;
+* acquari, pompette, flusso d'acqua
+
+
+## Comportamento
+
+### Prossimità
 
 * [Articolo](http://www.gioblu.com/tutorials/sensori/176-sensore-ir-led-arduino-processing) su prossimità con LED IR
 * [Articolo](http://www.gioblu.com/tutorials/sensori/59-sensore-prossimita-led) su prossimità con LED
 
-
-##Reti neurali##
+### Reti neurali
 
 * [Articolo](http://digitaljunky.io/playing-around-with-neural-networks-python-version/) sulle reti neurali in Python
 * [Articolo](http://it.emcelettronica.com/?s=rete) sull'implementazione di una rete neurale in Simulink e Arduino
 
-##Intelligenza Artificiale##
+### Intelligenza Artificiale
 
 * [Wikipedia](https://it.wikipedia.org/wiki/Intelligenza_artificiale)
 
-##Automi cellulari##
+### Automi cellulari
 
 * [Wikipedia](https://it.wikipedia.org/wiki/Automa_cellulare)
 * [post](https://blog.arduino.cc/2016/03/07/an-arduino-based-cellular-automata-with-oled-monitor/) sulla costruzione di un cellular automata con Arduino
 * **Tribe bots** by [HackLab](http://dev.hacklabterni.org/projects/tribebot), ispirato all'originale [KiloBots](http://www.eecs.harvard.edu/ssr/projects/progSA/kilobot.html) di Harvard (un altro [link](https://www.kilobotics.com/)).
+* Adafruit [Game of Life](https://learn.adafruit.com/game-of-life/preparation?embeds=allow&view=all)
 
+### Self-organizing behaviours
 
-###Approfondmenti###
+* [harvard](http://www.eecs.harvard.edu/ssr/publications/)
+
+## Approfondmenti
 
 * [Sistemi complessi](https://it.wikipedia.org/wiki/Sistema_complesso)
 * [Complessità](https://it.wikipedia.org/wiki/Epistemologia_della_complessit%C3%A0)
 * [Comportamento Emergente](https://it.wikipedia.org/wiki/Comportamento_emergente)
 
-###Documenti PDF###
+### riferimenti PDF
 
 * Robert Faludi, *Building wireless sensor networks*
 * Luca Marchese, *RETI NEURALI SU PERSONAL COMPUTER + FUZZY LOGIC*
