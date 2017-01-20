@@ -1,0 +1,12 @@
+In questo ZIP ci sono due cartelle ed un file APK.
+
+Nella cartella OHC_TRIBEBOTS_2.0_06.10.2015  c'è il codice per per il Controller Arduino UNO con BlueTooth
+
+Nella cartella tribebots2.0_06.10.2015_xA70_xA82 c'è il codice per il singolo TribeBot. La cartella è nominata in questa maniera 
+perchè xA70 indica che il TribeBot appartiene alla tribù 70 mentre per il Game of Life ha come identificativo il nr. 82.
+
+Il file OHC_TribeBots.apk è l' APP per Android per controllare via BlueTooth il funzionamento dei TribeBots.
+
+moRenox ;-)
+
+06.10.2015

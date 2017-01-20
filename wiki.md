@@ -26,6 +26,10 @@
 * [555](http://www.robotroom.com/Infrared555.html), un grande ritorno. Un [semplice circuito](http://www.reconnsworld.com/ir_ultrasonic_basicirdetectemit.html) IR;
 * IR by [Sparkfun](https://learn.sparkfun.com/tutorials/ir-communication);
 * IR by [Adafruit](https://learn.adafruit.com/ir-sensor/overview)
+* circuiti ed informazioni utili su [sb-projects](http://www.sbprojects.com/knowledge/ir/index.php)
+* protocollo aperto [LIRC](http://www.lirc.org/)
+* [Sony S-link](http://www.brian-patti.com/s-link/): risorse sul protocollo;
+* libreria IR per Arduino [link1](https://github.com/z3t0/Arduino-IRremote) e [link2](http://z3t0.github.io/Arduino-IRremote/).
 
 ### Wireless
 
@@ -70,6 +74,13 @@
 ### Self-organizing behaviours
 
 * [harvard](http://www.eecs.harvard.edu/ssr/publications/)
+
+## Spunti
+
+* Bruce Munro's [works](http://www.brucemunro.co.uk/work/installations/);
+* [Voyage](http://www.scottsdalepublicart.org/temporary-art/voyage) by [Aether and Hemera](http://www.aether-hemera.com/) per l'evento [Canal Convergence](http://scottsdalepublicart.org/events/canal-convergence-water-art-light-cycle-2#artists) - [project development blog](http://www.aether-hemera.com/Blog/2012/12/19?Id=Voyage__a_journey_into_imagination);
+* [floating LED balls](http://www.catinwater.com/2012/09/04/100000-led-balls-floating-down-a-river-in-japan/)
+* [Orbs Shaped Interactive Lighting Installation](http://forum.xcitefun.net/orbs-shaped-interactive-lighting-installation-t53441.html);
 
 ## Approfondmenti
 

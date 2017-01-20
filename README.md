@@ -21,6 +21,6 @@ Le ninfee sono agenti autonomi con comportamenti prestabiliti dal codice e reagi
 
 Risolvere eventuali problemi di _crosstalk_.
 
-## ## Autonomous Chatty Lilies w/ OHC
+## Autonomous Chatty Lilies w/ OHC
 
 Questo caso differisci di poco rispetto al precedente. Si tratta infatti dell'unione delle prime due casistiche.
