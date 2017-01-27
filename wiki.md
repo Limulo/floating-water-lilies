@@ -46,7 +46,12 @@
 
 * [link](https://learn.adafruit.com/vibro-bugz/materials?view=all) vibration bug by _Adafruit_;
 * acquari, pompette, flusso d'acqua
+* [cannone d'acqua](http://www.instructables.com/id/Squirt/): uno spunto da instructables.
+* ricerca il termine **idrogetto** (tipologia di propulsione) o **waterJet** in inglese (anche se potrebbe essere confuso con il processo di taglio).
+* alcune indicazioni utili sulla guid adi [motori](http://www.thebox.myzen.co.uk/Workshop/Motors_1.html) attraverso Arduino.
 
+### Bootloader, programmazione ATmel
+* istruzioni da [Adafruit](https://learn.adafruit.com/usbtinyisp?view=all)
 
 ## Comportamento
 
@@ -81,6 +86,14 @@
 * [Voyage](http://www.scottsdalepublicart.org/temporary-art/voyage) by [Aether and Hemera](http://www.aether-hemera.com/) per l'evento [Canal Convergence](http://scottsdalepublicart.org/events/canal-convergence-water-art-light-cycle-2#artists) - [project development blog](http://www.aether-hemera.com/Blog/2012/12/19?Id=Voyage__a_journey_into_imagination);
 * [floating LED balls](http://www.catinwater.com/2012/09/04/100000-led-balls-floating-down-a-river-in-japan/)
 * [Orbs Shaped Interactive Lighting Installation](http://forum.xcitefun.net/orbs-shaped-interactive-lighting-installation-t53441.html);
+* [CI Agents](http://drl.aaschool.ac.uk/portfolio/c-i-agents-2/)
+
+![01](http://drl.aaschool.ac.uk/wp-content/uploads/2013/06/04-CIAgents.jpg)
+![02](http://drl.aaschool.ac.uk/portfolio/c-i-agents-2/)
+![03](http://drl.aaschool.ac.uk/wp-content/uploads/2013/06/01-CIAgents.jpg)
+![04](http://drl.aaschool.ac.uk/wp-content/uploads/2013/06/05-CIAgents.jpg)
+
+* [AntiBot](http://drl.aaschool.ac.uk/portfolio/anti-bot/)
 
 ## Approfondmenti
 
