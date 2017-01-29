@@ -53,6 +53,17 @@
 ### Bootloader, programmazione ATmel
 * istruzioni da [Adafruit](https://learn.adafruit.com/usbtinyisp?view=all)
 
+### PCB, disegno e Stampa
+* tutorials Sparkfun su [Eagle](https://www.sparkfun.com/search/results?term=eagle)
+* [pcb trace calculator](http://circuitcalculator.com/wordpress/2006/01/31/pcb-trace-width-calculator/)
+
+**Terminologia**
+
+* [Gerber](https://en.wikipedia.org/wiki/Gerber_format) format;
+* piano di massa
+* solder mask
+* silkscreen (serigrafia);
+
 ## Comportamento
 
 ### Prossimità
@@ -86,6 +97,8 @@
 * [Voyage](http://www.scottsdalepublicart.org/temporary-art/voyage) by [Aether and Hemera](http://www.aether-hemera.com/) per l'evento [Canal Convergence](http://scottsdalepublicart.org/events/canal-convergence-water-art-light-cycle-2#artists) - [project development blog](http://www.aether-hemera.com/Blog/2012/12/19?Id=Voyage__a_journey_into_imagination);
 * [floating LED balls](http://www.catinwater.com/2012/09/04/100000-led-balls-floating-down-a-river-in-japan/)
 * [Orbs Shaped Interactive Lighting Installation](http://forum.xcitefun.net/orbs-shaped-interactive-lighting-installation-t53441.html);
+
+### from AADRL Spyropoulos Studio
 * [CI Agents](http://drl.aaschool.ac.uk/portfolio/c-i-agents-2/)
 
 ![01](http://drl.aaschool.ac.uk/wp-content/uploads/2013/06/04-CIAgents.jpg)
@@ -94,6 +107,7 @@
 ![04](http://drl.aaschool.ac.uk/wp-content/uploads/2013/06/05-CIAgents.jpg)
 
 * [AntiBot](http://drl.aaschool.ac.uk/portfolio/anti-bot/)
+* [vimeo video](https://vimeo.com/134977004)
 
 ## Approfondmenti
 
