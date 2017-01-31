@@ -42,7 +42,7 @@
 
 ### Gemma
 * [GEMMA](https://www.adafruit.com/gemma) (vedi progetto [gufo](https://learn.adafruit.com/chirping-plush-owl-toy?embeds=allow))
-* [Gemma - technicals](https://learn.adafruit.com/introducing-gemma/downloads)([PDF](https://cdn-learn.adafruit.com/downloads/pdf/introducing-gemma.pdf))
+* [Gemma - technicals](https://learn.adafruit.com/introducing-gemma/downloads) ([PDF](https://cdn-learn.adafruit.com/downloads/pdf/introducing-gemma.pdf))
 * [FLORA + GEMMA](https://learn.adafruit.com/flora-and-gemma-isp) riprogrammazione bootloader con USBtiny di Adafruit (tutorial)
 * [Gemma bootloader](https://github.com/adafruit/Adafruit-Trinket-Gemma-Bootloader)
 * [VID e PID](http://www.usb.org/developers/vendor/) per prodotti USB
