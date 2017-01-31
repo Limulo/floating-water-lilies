@@ -40,7 +40,16 @@
 
 ## Hardware
 
-* dimensioni contenute: microcontroller [GEMMA](https://www.adafruit.com/gemma) e relativo progetto [gufo](https://learn.adafruit.com/chirping-plush-owl-toy?embeds=allow) da Adafruit.
+### Gemma
+* [GEMMA](https://www.adafruit.com/gemma) (vedi progetto [gufo](https://learn.adafruit.com/chirping-plush-owl-toy?embeds=allow))
+* [Gemma - technicals](https://learn.adafruit.com/introducing-gemma/downloads)([PDF](https://cdn-learn.adafruit.com/downloads/pdf/introducing-gemma.pdf))
+* [FLORA + GEMMA](https://learn.adafruit.com/flora-and-gemma-isp) riprogrammazione bootloader con USBtiny di Adafruit (tutorial)
+* [Gemma bootloader](https://github.com/adafruit/Adafruit-Trinket-Gemma-Bootloader)
+* [VID e PID](http://www.usb.org/developers/vendor/) per prodotti USB
+* [Gemma github - PCB](https://github.com/adafruit/Adafruit-Gemma-PCB)
+* [Gemma github - Fritzing library](https://github.com/adafruit/Fritzing-Library)
+* [MIC5225 - PDF](https://cdn-learn.adafruit.com/assets/assets/000/010/775/original/mic5225.pdf)
+* [ATtiny85](http://www.atmel.com/devices/attiny85.aspx)
 
 ### Motori e movimento
 
