@@ -51,6 +51,13 @@
 * [MIC5225 - PDF](https://cdn-learn.adafruit.com/assets/assets/000/010/775/original/mic5225.pdf)
 * [ATtiny85](http://www.atmel.com/devices/attiny85.aspx)
 
+### Lilypad
+* [Lilypad - overview](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad)
+* [schematics](https://www.arduino.cc/en/uploads/Main/LilyPad_schematic_v18.pdf)
+* [getting started with Arduino Lilypad](https://www.arduino.cc/en/Guide/ArduinoLilyPad)
+* [Programming bootloader](https://www.arduino.cc/en/Hacking/Programmer)
+* [SparkFun accessories for lilypad](https://www.sparkfun.com/categories/135)
+
 ### Motori e movimento
 
 * [link](https://learn.adafruit.com/vibro-bugz/materials?view=all) vibration bug by _Adafruit_;
