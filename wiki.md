@@ -4,15 +4,29 @@
 
 [Qui](https://learn.adafruit.com/lets-put-leds-in-things/soldering?view=all) alcune idee sull'utilizzo di diversi metodi per illuminare da _Adafruit_.
 
-### LED RGB
+### LED (RGB e altro)
 
-* [RobotItaly 1](http://www.gioblu.com/tutorials/sensori/59-sensore-prossimita-led)
 * [RobotItaly 2](http://www.robot-italy.com/en/neopixel-jewel-7-x-ws2812-5050-rgb-led-with-integrated-drivers.html)
 * [RobotItaly 3](http://www.robot-italy.com/en/2549-addressable-rgb-60-led-strip-5v-1m-ws2812b.html)
+
+Si potrebbe anche pensare ad un LED più grosso, del diametro di circa 8mm come mostrato nell'immagine seguente (tratta dall'articolo sui [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) da Wikipedia):
+
+![LED dimensions](https://upload.wikimedia.org/wikipedia/commons/c/c0/LEDs_8_5_3mm.JPG){: width="30%" }
+
+mostrati anche nel video seguente sin dal principio.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/meGADsCt-Tk" frameborder="0" allowfullscreen></iframe>
+
+In alternativa un effetto simpatico si può ottenere con un **LED ultravioletto** e della polvere _Glow in the dark_ (polvere fosforescente). la polvere si applica alla superficie esterna del LED ultravioletto dopo essere stata amalgamata con colla vinilica.
+
+La **diffusione** della luce emessa dal LED RGB si può ottenre usando la carta abrasiva sulla superficie del LED come riportato nelle istruzioni per le **firefly** di Alex Weber [tinkershop](https://tinkerlog.com/howto/synchronizing-firefly-how-to/). Oppure si può usare una pallina da Ping Pong.
+
+Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante di Alex Weber (aka **tinkershop**) riguardo LED, 555 e fotoresistore.
 
 ### Sensing della luce
 
 * [Robot Italy](http://www.robot-italy.com/it/catalogsearch/result/?q=TCS34725)
+* [Robot](https://tinkerlog.com/2009/04/18/arduino-powered-braitenberg-vehicle/) che segue la luce, ispirato al lavoro di [Valentino ** ***
 
 ### Elettroluminescenza
 
@@ -52,6 +66,7 @@
 
 ### Bootloader, programmazione ATmel
 * istruzioni da [Adafruit](https://learn.adafruit.com/usbtinyisp?view=all)
+* dal sito [tinkerlog](https://tinkerlog.com/2009/06/18/microcontroller-cheat-sheet/)
 
 ### PCB, disegno e Stampa
 * tutorials Sparkfun su [Eagle](https://www.sparkfun.com/search/results?term=eagle)
@@ -69,7 +84,7 @@
 ### Prossimità
 
 * [Articolo](http://www.gioblu.com/tutorials/sensori/176-sensore-ir-led-arduino-processing) su prossimità con LED IR
-* [Articolo](http://www.gioblu.com/tutorials/sensori/59-sensore-prossimita-led) su prossimità con LED
+* [Articolo](http://www.gioblu.com/tutorials/sensori/59-sensore-prossimita-led) uso dei LED come sensori di prossimità (usati con polarità opposta).
 
 ### Reti neurali
 
@@ -97,6 +112,7 @@
 * [Voyage](http://www.scottsdalepublicart.org/temporary-art/voyage) by [Aether and Hemera](http://www.aether-hemera.com/) per l'evento [Canal Convergence](http://scottsdalepublicart.org/events/canal-convergence-water-art-light-cycle-2#artists) - [project development blog](http://www.aether-hemera.com/Blog/2012/12/19?Id=Voyage__a_journey_into_imagination);
 * [floating LED balls](http://www.catinwater.com/2012/09/04/100000-led-balls-floating-down-a-river-in-japan/)
 * [Orbs Shaped Interactive Lighting Installation](http://forum.xcitefun.net/orbs-shaped-interactive-lighting-installation-t53441.html);
+* Alex Weber [tinkerblog firefly](https://tinkerlog.com/howto/synchronizing-firefly-how-to/), costruite usando un **LED RGB**, un **ATtiny**. Ecco l'[Instructables](http://www.instructables.com/id/Synchronizing-Fireflies/).
 
 ### from AADRL Spyropoulos Studio
 * [CI Agents](http://drl.aaschool.ac.uk/portfolio/c-i-agents-2/)
@@ -114,11 +130,20 @@
 * [Sistemi complessi](https://it.wikipedia.org/wiki/Sistema_complesso)
 * [Complessità](https://it.wikipedia.org/wiki/Epistemologia_della_complessit%C3%A0)
 * [Comportamento Emergente](https://it.wikipedia.org/wiki/Comportamento_emergente)
+* [Sistemi auto organizzanti](https://en.wikipedia.org/wiki/Self-organization)
+* [CSMA/CA](https://en.wikipedia.org/wiki/Carrier_Sense_Multiple_Access)
 
-### riferimenti PDF
+### Riferimenti (books e PDF)
 
 * Robert Faludi, *Building wireless sensor networks*
 * Luca Marchese, *RETI NEURALI SU PERSONAL COMPUTER + FUZZY LOGIC*
 * A. Valeriani, F. Nassi, M. Maola, *Studio, implementazione e realizzazione di una rete neurale MLP riconfigurabile, processata tramite algoritmo di back propagation su scheda di sviluppo embedded Arduino Uno Rev.3*
+* Valentino Braitenberg, *Vehicles: experiments in synthetic psicology*
+
+## knowledge base
+
+* lettura da sensori ad alta impedenza, [articolo Adafruit](https://blog.adafruit.com/2010/01/29/how-to-multiplex-analog-readings-what-can-go-wrong-with-high-impedance-sensors-and-how-to-fix-it/)
+* i fotoresistori: [tutorial](https://learn.adafruit.com/photocells/overview) Adafruit, [application note](https://cdn-learn.adafruit.com/assets/assets/000/010/129/original/APP_PhotocellIntroduction.pdf) pdf, [how to select the correct one](https://cdn-learn.adafruit.com/assets/assets/000/010/130/original/gde_photocellselecting.pdf) pdf.
+* Adafruit [all about batteries](https://learn.adafruit.com/all-about-batteries/overview) tutorial
 
 
