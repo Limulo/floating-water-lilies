@@ -54,7 +54,23 @@ Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante 
 
 ## Hardware
 
-* dimensioni contenute: microcontroller [GEMMA](https://www.adafruit.com/gemma) e relativo progetto [gufo](https://learn.adafruit.com/chirping-plush-owl-toy?embeds=allow) da Adafruit.
+### Gemma
+* [GEMMA](https://www.adafruit.com/gemma) (vedi progetto [gufo](https://learn.adafruit.com/chirping-plush-owl-toy?embeds=allow))
+* [Gemma - technicals](https://learn.adafruit.com/introducing-gemma/downloads) ([PDF](https://cdn-learn.adafruit.com/downloads/pdf/introducing-gemma.pdf) - a pagina 12 ci sono info e link per l'alimentazione)
+* [FLORA + GEMMA](https://learn.adafruit.com/flora-and-gemma-isp) riprogrammazione bootloader con USBtiny di Adafruit (tutorial)
+* [Gemma bootloader](https://github.com/adafruit/Adafruit-Trinket-Gemma-Bootloader)
+* [VID e PID](http://www.usb.org/developers/vendor/) per prodotti USB
+* [Gemma github - PCB](https://github.com/adafruit/Adafruit-Gemma-PCB)
+* [Gemma github - Fritzing library](https://github.com/adafruit/Fritzing-Library)
+* [MIC5225 - PDF](https://cdn-learn.adafruit.com/assets/assets/000/010/775/original/mic5225.pdf)
+* [ATtiny85](http://www.atmel.com/devices/attiny85.aspx)
+
+### Lilypad
+* [Lilypad - overview](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad)
+* [schematics](https://www.arduino.cc/en/uploads/Main/LilyPad_schematic_v18.pdf)
+* [getting started with Arduino Lilypad](https://www.arduino.cc/en/Guide/ArduinoLilyPad)
+* [Programming bootloader](https://www.arduino.cc/en/Hacking/Programmer)
+* [SparkFun accessories for lilypad](https://www.sparkfun.com/categories/135)
 
 ### Motori e movimento
 
