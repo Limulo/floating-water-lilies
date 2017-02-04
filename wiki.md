@@ -11,11 +11,9 @@
 
 Si potrebbe anche pensare ad un LED più grosso, del diametro di circa 8mm come mostrato nell'immagine seguente (tratta dall'articolo sui [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) da Wikipedia):
 
-![LED dimensions](https://upload.wikimedia.org/wikipedia/commons/c/c0/LEDs_8_5_3mm.JPG){: width="30%" }
+![LED dimensions](https://upload.wikimedia.org/wikipedia/commons/c/c0/LEDs_8_5_3mm.JPG)
 
-mostrati anche nel video seguente sin dal principio.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/meGADsCt-Tk" frameborder="0" allowfullscreen></iframe>
+mostrati anche nel [video](https://www.youtube.com/embed/meGADsCt-Tk) seguente sin dal principio.
 
 In alternativa un effetto simpatico si può ottenere con un **LED ultravioletto** e della polvere _Glow in the dark_ (polvere fosforescente). la polvere si applica alla superficie esterna del LED ultravioletto dopo essere stata amalgamata con colla vinilica.
 
@@ -26,7 +24,7 @@ Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante 
 ### Sensing della luce
 
 * [Robot Italy](http://www.robot-italy.com/it/catalogsearch/result/?q=TCS34725)
-* [Robot](https://tinkerlog.com/2009/04/18/arduino-powered-braitenberg-vehicle/) che segue la luce, ispirato al lavoro di [Valentino ** ***
+* [Robot](https://tinkerlog.com/2009/04/18/arduino-powered-braitenberg-vehicle/) che segue la luce, ispirato al lavoro di [Valentino Braitenberg](https://en.wikipedia.org/wiki/Valentino_Braitenberg).
 
 ### Elettroluminescenza
 
@@ -161,5 +159,3 @@ Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante 
 * lettura da sensori ad alta impedenza, [articolo Adafruit](https://blog.adafruit.com/2010/01/29/how-to-multiplex-analog-readings-what-can-go-wrong-with-high-impedance-sensors-and-how-to-fix-it/)
 * i fotoresistori: [tutorial](https://learn.adafruit.com/photocells/overview) Adafruit, [application note](https://cdn-learn.adafruit.com/assets/assets/000/010/129/original/APP_PhotocellIntroduction.pdf) pdf, [how to select the correct one](https://cdn-learn.adafruit.com/assets/assets/000/010/130/original/gde_photocellselecting.pdf) pdf.
 * Adafruit [all about batteries](https://learn.adafruit.com/all-about-batteries/overview) tutorial
-
-
