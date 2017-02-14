@@ -6,16 +6,15 @@
 
 ### LED (RGB e altro)
 
-* [RobotItaly 2](http://www.robot-italy.com/en/neopixel-jewel-7-x-ws2812-5050-rgb-led-with-integrated-drivers.html)
-* [RobotItaly 3](http://www.robot-italy.com/en/2549-addressable-rgb-60-led-strip-5v-1m-ws2812b.html)
+Oltre ai classici LED RGB disponibili da **Robot Italy** ([link1](http://www.robot-italy.com/en/neopixel-jewel-7-x-ws2812-5050-rgb-led-with-integrated-drivers.html) e [link2](http://www.robot-italy.com/en/2549-addressable-rgb-60-led-strip-5v-1m-ws2812b.html) ), si potrebbe pensare d'usare i LED **NeoPixel** (sempre diponibili da Robot Italy(https://www.robot-italy.com/it/neopixel-diffused-8mm-through-hole-led-5-pack.html) ) che contengono al loro interno in piccolo integrato che gestisce in automatico la logica di funzionamento.
 
-Si potrebbe anche pensare ad un LED più grosso, del diametro di circa 8mm come mostrato nell'immagine seguente (tratta dall'articolo sui [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) da Wikipedia):
+Si potrebbe anche pensare ad un LED più grosso, del diametro di circa 8 o 10mm come mostrato nell'immagine seguente (tratta dall'articolo sui [LED](https://en.wikipedia.org/wiki/Light-emitting_diode) da Wikipedia):
 
 ![LED dimensions](https://upload.wikimedia.org/wikipedia/commons/c/c0/LEDs_8_5_3mm.JPG)
 
 mostrati anche nel [video](https://www.youtube.com/embed/meGADsCt-Tk) seguente sin dal principio.
 
-In alternativa un effetto simpatico si può ottenere con un **LED ultravioletto** e della polvere _Glow in the dark_ (polvere fosforescente). la polvere si applica alla superficie esterna del LED ultravioletto dopo essere stata amalgamata con colla vinilica.
+In alternativa un effetto simpatico si può ottenere con un **LED ultravioletto** e della polvere _Glow in the dark_ (polvere fosforescente): la polvere si applica alla superficie esterna del LED ultravioletto dopo essere stata amalgamata con colla vinilica.
 
 La **diffusione** della luce emessa dal LED RGB si può ottenre usando la carta abrasiva sulla superficie del LED come riportato nelle istruzioni per le **firefly** di Alex Weber [tinkershop](https://tinkerlog.com/howto/synchronizing-firefly-how-to/). Oppure si può usare una pallina da Ping Pong.
 
@@ -30,14 +29,18 @@ Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante 
 
 * [Adafruit](https://learn.adafruit.com/el-wire/soldering-to-el-wire)
 
+### Fluorescenza / Fosforescenza
+
+* articolo da [Wikipedia](https://en.wikipedia.org/wiki/Phosphorescence)
+
 ## Comunicazione
 
 ### IR
 
+* IR theory tutorials by [Sparkfun](https://learn.sparkfun.com/tutorials/ir-communication) and [Adafruit](https://learn.adafruit.com/ir-sensor/overview);
 * [protocolli, idee e progetti](http://www.epanorama.net/links/irremote.html) (da _Tom Igoe_);
-* [555](http://www.robotroom.com/Infrared555.html), un grande ritorno. Un [semplice circuito](http://www.reconnsworld.com/ir_ultrasonic_basicirdetectemit.html) IR;
-* IR by [Sparkfun](https://learn.sparkfun.com/tutorials/ir-communication);
-* IR by [Adafruit](https://learn.adafruit.com/ir-sensor/overview)
+* Un circuito complesso che usa un oscillatore ceramico e un [555](http://www.robotroom.com/Infrared555.html), grande ritorno). 
+* Un [semplice circuito](http://www.reconnsworld.com/ir_ultrasonic_basicirdetectemit.html) IR;
 * circuiti ed informazioni utili su [sb-projects](http://www.sbprojects.com/knowledge/ir/index.php)
 * protocollo aperto [LIRC](http://www.lirc.org/)
 * [Sony S-link](http://www.brian-patti.com/s-link/): risorse sul protocollo;
