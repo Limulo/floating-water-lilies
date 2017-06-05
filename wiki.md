@@ -79,13 +79,15 @@ Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante 
 * acquari, pompette, flusso d'acqua
 * [cannone d'acqua](http://www.instructables.com/id/Squirt/): uno spunto da instructables.
 * ricerca il termine **idrogetto** (tipologia di propulsione) o **waterJet** in inglese (anche se potrebbe essere confuso con il processo di taglio).
-* alcune indicazioni utili sulla guid adi [motori](http://www.thebox.myzen.co.uk/Workshop/Motors_1.html) attraverso Arduino.
+* alcune indicazioni utili sulla guida di [motori](http://www.thebox.myzen.co.uk/Workshop/Motors_1.html) attraverso Arduino.
 
 ### Bootloader, programmazione ATmel
+
 * istruzioni da [Adafruit](https://learn.adafruit.com/usbtinyisp?view=all)
 * dal sito [tinkerlog](https://tinkerlog.com/2009/06/18/microcontroller-cheat-sheet/)
 
 ### PCB, disegno e Stampa
+
 * tutorials Sparkfun su [Eagle](https://www.sparkfun.com/search/results?term=eagle)
 * [pcb trace calculator](http://circuitcalculator.com/wordpress/2006/01/31/pcb-trace-width-calculator/)
 
@@ -130,6 +132,7 @@ Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante 
 * [floating LED balls](http://www.catinwater.com/2012/09/04/100000-led-balls-floating-down-a-river-in-japan/)
 * [Orbs Shaped Interactive Lighting Installation](http://forum.xcitefun.net/orbs-shaped-interactive-lighting-installation-t53441.html);
 * Alex Weber [tinkerblog firefly](https://tinkerlog.com/howto/synchronizing-firefly-how-to/), costruite usando un **LED RGB**, un **ATtiny**. Ecco l'[Instructables](http://www.instructables.com/id/Synchronizing-Fireflies/).
+* progetto [Instructables](http://www.instructables.com/id/Supercapacitor-Vibrobot/) con pannello solare e motore a vibrazione.
 
 ### from AADRL Spyropoulos Studio
 * [CI Agents](http://drl.aaschool.ac.uk/portfolio/c-i-agents-2/)
