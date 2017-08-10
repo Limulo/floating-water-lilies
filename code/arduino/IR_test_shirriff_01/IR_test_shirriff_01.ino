@@ -11,6 +11,7 @@ int LED = 13;
 IRrecv irrecv(RECV_PIN, LED);
 
 decode_results results;
+unsigned long value, previousValue=0;
 
 
 // SETUP /////////////////////////////////////////////////////
@@ -23,11 +24,19 @@ void setup()
 
 // LOOP //////////////////////////////////////////////////////
 void loop() {
-  if ( irrecv.decode(&results) ) {
-    Serial.println(results.value, HEX); Serial.println();
+  if ( irrecv.decode(&results) ) 
+  {
+    value = results.value;
+    if( value != previousValue)
+    {
+      Serial.println();
+    }
+    Serial.println(value, HEX);
+    previousValue = value;
+    
     //dump( &results );
     irrecv.resume(); // Receive the next value
-    delay(1000);
+    delay(5);
   }
 }
 
