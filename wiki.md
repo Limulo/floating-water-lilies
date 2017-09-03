@@ -127,6 +127,7 @@ Un [altro](https://tinkerlog.com/howto/programmable-led/) progetto interessante 
 
 ## Spunti
 
+* [Cellolo](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/cellulo-introduces-classrooms-to-tangible-learning-with-robots)
 * [8 robot from instructables](http://www.instructables.com/id/8-Simple-Robots-for-Beginners/)
 * Bruce Munro's [works](http://www.brucemunro.co.uk/work/installations/);
 * [Voyage](http://www.scottsdalepublicart.org/temporary-art/voyage) by [Aether and Hemera](http://www.aether-hemera.com/) per l'evento [Canal Convergence](http://scottsdalepublicart.org/events/canal-convergence-water-art-light-cycle-2#artists) - [project development blog](http://www.aether-hemera.com/Blog/2012/12/19?Id=Voyage__a_journey_into_imagination);
